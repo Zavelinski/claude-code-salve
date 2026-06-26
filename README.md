@@ -84,4 +84,6 @@ MIT. See [LICENSE](LICENSE). Original work.
 
 ---
 
-Part of the **[claude-code-skills](https://github.com/Zavelinski/claude-code-skills)** collection: a suite of focused, original Claude Code skills.
+## Part of claude-code-skills
+
+This skill ships in the [claude-code-skills](https://zavelinski.github.io/claude-code-skills/) marketplace. Browse its landing page: [salve](https://zavelinski.github.io/claude-code-skills/salve.html). See also: [godmode](https://github.com/Zavelinski/claude-code-godmode), [scheduled-sop-runner](https://github.com/Zavelinski/claude-code-scheduled-sop-runner).
